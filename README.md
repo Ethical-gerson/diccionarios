@@ -1,8 +1,11 @@
 Tool for create custom wordlist created by notgersom (ethical-gerson) using Cewl
 
 git clone https://github.com/Ethical-gerson/diccionarios
+
 cd diccionarios/
+
 chmod +x CustomWL.sh
+
 ./CustomWL.sh <url> (example: ./CustomWL.sh eccouncil.org)
 
 
